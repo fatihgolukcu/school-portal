@@ -1,0 +1,2 @@
+-- Production reference data and the 49 curriculum criteria are versioned in
+-- migrations/202610030005_reference_data.sql. No sample personal data is seeded.

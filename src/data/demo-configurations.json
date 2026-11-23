@@ -1,0 +1,993 @@
+{
+  "assessment": {
+    "questions": [
+      {
+        "id": "B1.1",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Symbol recognition",
+        "label_tr": "Simge tanıma",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B1.2",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Correct pronunciation",
+        "label_tr": "Doğru telaffuz",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B1.3",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Applying the rules",
+        "label_tr": "Kuralları uygulama",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B1.4",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Fluent reading",
+        "label_tr": "Akıcı okuma",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B1.5",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Memorisation",
+        "label_tr": "Ezberleme",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B1.6",
+        "subject_code": "B1",
+        "form": "B1",
+        "type": "score",
+        "label_en": "Home practice",
+        "label_tr": "Ev çalışması",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B2.1",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Knows the key figures and setting of the period.",
+        "label_tr": "Dönemin önemli kişilerini ve ortamını bilir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B2.2",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Explains key concepts of the period.",
+        "label_tr": "Dönemin temel kavramlarını açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B2.3",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Explains character traits with examples.",
+        "label_tr": "Karakter özelliklerini örneklerle açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B2.4",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Describes how events spread through cause and effect.",
+        "label_tr": "Olayların yayılmasını neden-sonuç ilişkisiyle anlatır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B2.5",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Explains patience and approaches used in hard times.",
+        "label_tr": "Zor dönemlerdeki sabrı ve yöntemleri açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B2.6",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Analyses migration as a process of building a community.",
+        "label_tr": "Göçü toplum inşası olarak analiz eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B2.7",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Interprets justice and diplomacy through a case study.",
+        "label_tr": "Bir örnek olay üzerinden adalet ve diplomasiyi yorumlar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 7
+      },
+      {
+        "id": "B2.8",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Analyses the meaning of a key event.",
+        "label_tr": "Önemli bir olayın anlamını analiz eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 8
+      },
+      {
+        "id": "B2.9",
+        "subject_code": "B2",
+        "form": "B2",
+        "type": "score",
+        "label_en": "Evaluates the influence of key figures.",
+        "label_tr": "Önemli şahsiyetlerin etkisini değerlendirir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 9
+      },
+      {
+        "id": "B3.1",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Explains why role models matter.",
+        "label_tr": "Örnek kişilerin neden önemli olduğunu açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B3.2",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Describes events through cause and effect.",
+        "label_tr": "Olayları sebep-sonuç ilişkisiyle anlatır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B3.3",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Understands remarkable events accurately.",
+        "label_tr": "Dikkat çekici olayları doğru kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B3.4",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Takes good character as an example.",
+        "label_tr": "Güzel ahlakı örnek alır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B3.5",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Understands patience and trust.",
+        "label_tr": "Sabır ve güveni anlar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B3.6",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Understands sincerity.",
+        "label_tr": "Samimiyeti kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B3.7",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Understands the central message of a story.",
+        "label_tr": "Bir hikâyenin ana mesajını anlar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 7
+      },
+      {
+        "id": "B3.8",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Explains the importance of sources.",
+        "label_tr": "Kaynakların önemini açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 8
+      },
+      {
+        "id": "B3.9",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Connects the lessons to the present day.",
+        "label_tr": "Günümüzle bağlantı kurar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 9
+      },
+      {
+        "id": "B3.10",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Develops empathy.",
+        "label_tr": "Empati geliştirir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 10
+      },
+      {
+        "id": "B3.11",
+        "subject_code": "B3",
+        "form": "B3",
+        "type": "score",
+        "label_en": "Asks questions and reflects.",
+        "label_tr": "Soru sorar ve düşünür.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 11
+      },
+      {
+        "id": "B4.1",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Love and respect: treats people with love and respect.",
+        "label_tr": "Sevgi ve saygı: Çevresindeki kişilere sevgi ve saygı çerçevesinde yaklaşır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B4.2",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Honesty and character: is truthful in words and actions.",
+        "label_tr": "Doğruluk ve karakter: Söz ve davranışlarında dürüsttür.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B4.3",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Managing emotions: recognises and manages personal feelings.",
+        "label_tr": "Duygu yönetimi: Kendi duygularını tanır ve yönetme becerisi gösterir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B4.4",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Justice and fairness: approaches situations fairly and acts justly.",
+        "label_tr": "Adalet ve hakkaniyet: Olaylara adil yaklaşır ve hakkaniyete uygun davranır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B4.5",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Empathy and kindness: understands others’ feelings and acts kindly.",
+        "label_tr": "Empati ve nezaket: Başkalarının duygularını anlar ve nazik davranır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B4.6",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Responsibility: completes assigned duties on time.",
+        "label_tr": "Sorumluluk bilinci: Verilen görev ve sorumlulukları zamanında yerine getirir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B4.7",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Challenging bullying: is alert and responsive to bullying.",
+        "label_tr": "Zorbalıkla mücadele: Çevresindeki zorbalıklara karşı duyarlıdır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 7
+      },
+      {
+        "id": "B4.8",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Environmental awareness: cares for the environment and protects nature.",
+        "label_tr": "Çevre bilinci: Çevre duyarlılığı gelişmiştir, doğayı korur.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 8
+      },
+      {
+        "id": "B4.9",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Responsible consumption: uses resources without waste.",
+        "label_tr": "Tasarruf ve tüketim ahlakı: Kaynakları israf etmeden kullanır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 9
+      },
+      {
+        "id": "B4.10",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Digital ethics: follows online platform rules.",
+        "label_tr": "Dijital etik: Online platform kurallarına uyar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 10
+      },
+      {
+        "id": "B4.11",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Healthy living: cares for personal health and cleanliness.",
+        "label_tr": "Sağlıklı yaşam: Kendi sağlığına ve temizliğine dikkat eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 11
+      },
+      {
+        "id": "B4.12",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Diligence and perseverance: makes an effort and does not give up.",
+        "label_tr": "Çalışkanlık ve azim: Zorluklar karşısında pes etmez, gayret gösterir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 12
+      },
+      {
+        "id": "B4.13",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Community support: helps and cooperates with friends.",
+        "label_tr": "Toplumsal dayanışma: Arkadaşlarıyla yardımlaşır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 13
+      },
+      {
+        "id": "B4.14",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Role models: follows the good example of admired people.",
+        "label_tr": "Rol model: Örnek aldığı kişilerin güzel davranışlarını uygular.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 14
+      },
+      {
+        "id": "B4.15",
+        "subject_code": "B4",
+        "form": "B4",
+        "type": "score",
+        "label_en": "Reflection: looks for deeper meaning in events.",
+        "label_tr": "Derinlik: Olaylara daha derin anlam arama becerisi gösterir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 15
+      },
+      {
+        "id": "B5.1",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Lists and explains core principles.",
+        "label_tr": "Temel ilkeleri sıralar ve açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B5.2",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Expresses a core belief clearly.",
+        "label_tr": "Temel bir inancı açıkça ifade eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B5.3",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Uses basic concepts correctly.",
+        "label_tr": "Temel kavramları doğru kullanır.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B5.4",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Explains the foundations of the track.",
+        "label_tr": "Rotanın temellerini açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B5.5",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Performs practices correctly.",
+        "label_tr": "Uygulamaları doğru yapar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B5.6",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Understands the inner dimension of practice.",
+        "label_tr": "Uygulamanın iç boyutunu kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B5.7",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Explains the social aspects of practice.",
+        "label_tr": "Uygulamaların toplumsal yönünü açıklar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 7
+      },
+      {
+        "id": "B5.8",
+        "subject_code": "B5",
+        "form": "B5",
+        "type": "score",
+        "label_en": "Connects and analyses relationships between topics.",
+        "label_tr": "Konular arası ilişki kurar ve analiz eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 8
+      },
+      {
+        "id": "B6.1",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Understands the importance of reading books.",
+        "label_tr": "Kitap okumanın önemini kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "B6.2",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Understands and interprets what they read.",
+        "label_tr": "Okuduğunu anlar ve yorumlar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "B6.3",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Understands cause and effect between events.",
+        "label_tr": "Olaylar arasındaki sebep-sonuç ilişkisini kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "B6.4",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Learns new words.",
+        "label_tr": "Yeni sözcükler edinir.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      },
+      {
+        "id": "B6.5",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Discovers their strengths.",
+        "label_tr": "Güçlü yönlerini keşfeder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 5
+      },
+      {
+        "id": "B6.6",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Expresses feelings with suitable words.",
+        "label_tr": "Duygularını uygun sözcüklerle ifade eder.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 6
+      },
+      {
+        "id": "B6.7",
+        "subject_code": "B6",
+        "form": "B6",
+        "type": "score",
+        "label_en": "Understands the importance of moral values.",
+        "label_tr": "Ahlaki değerlerin önemini kavrar.",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 7
+      },
+      {
+        "id": "A4.focus",
+        "form": "A4",
+        "type": "score",
+        "label_en": "Focus during lessons",
+        "label_tr": "Derse odaklanma",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "A4.activities",
+        "form": "A4",
+        "type": "score",
+        "label_en": "Activities and projects",
+        "label_tr": "Etkinlik ve projeler",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "A4.communication",
+        "form": "A4",
+        "type": "score",
+        "label_en": "Communication with the teacher",
+        "label_tr": "Öğretmenle iletişim",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 3
+      },
+      {
+        "id": "A5.respect",
+        "form": "A5",
+        "type": "score",
+        "label_en": "Respect for classmates",
+        "label_tr": "Arkadaşlara saygı",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 1
+      },
+      {
+        "id": "A5.rules",
+        "form": "A5",
+        "type": "score",
+        "label_en": "Following class routines",
+        "label_tr": "Ders düzenine uyum",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 2
+      },
+      {
+        "id": "A6.strengths",
+        "form": "A6",
+        "type": "text",
+        "label_en": "Strengths",
+        "label_tr": "Güçlü yönler",
+        "required": true,
+        "order": 1
+      },
+      {
+        "id": "A6.development",
+        "form": "A6",
+        "type": "text",
+        "label_en": "Development areas",
+        "label_tr": "Gelişim alanları",
+        "required": true,
+        "order": 2
+      },
+      {
+        "id": "A6.advice",
+        "form": "A6",
+        "type": "text",
+        "label_en": "Advice for parents",
+        "label_tr": "Veliye öneriler",
+        "required": true,
+        "order": 3
+      },
+      {
+        "id": "A6.effort",
+        "form": "A6",
+        "type": "score",
+        "label_en": "Overall development effort",
+        "label_tr": "Genel gelişim çabası",
+        "required": true,
+        "min": 1,
+        "max": 5,
+        "order": 4
+      }
+    ]
+  },
+  "grading": {
+    "overall": {
+      "discipline": 0.3,
+      "academic": 0.5,
+      "effort": 0.2
+    },
+    "discipline": {
+      "attendance": 0.4,
+      "participation": 0.3,
+      "behaviour": 0.3
+    },
+    "participation": {
+      "a3": 0.5,
+      "a4": 0.5
+    },
+    "attendance_scores": {
+      "present": 5,
+      "late": 3,
+      "absent": 0
+    },
+    "academic": {
+      "mode": "average",
+      "weights": {}
+    },
+    "bands": [
+      {
+        "min": 0,
+        "key": "risk",
+        "label_en": "Needs close support",
+        "label_tr": "Risk grubu",
+        "color": "red"
+      },
+      {
+        "min": 2.5,
+        "key": "developing",
+        "label_en": "Development needed",
+        "label_tr": "Gelişim gerekli",
+        "color": "orange"
+      },
+      {
+        "min": 3,
+        "key": "steady",
+        "label_en": "Steady progress",
+        "label_tr": "Normal ilerleme",
+        "color": "yellow"
+      },
+      {
+        "min": 4,
+        "key": "good",
+        "label_en": "Progressing well",
+        "label_tr": "İyi ilerliyor",
+        "color": "green"
+      },
+      {
+        "min": 4.5,
+        "key": "excellent",
+        "label_en": "Progressing very well",
+        "label_tr": "Çok iyi ilerliyor",
+        "color": "green"
+      }
+    ]
+  },
+  "triggers": {
+    "review_hours": 48,
+    "escalation_hours": 72,
+    "orange_escalation_days": 14,
+    "rules": [
+      {
+        "id": "absence_sequence",
+        "label_en": "Three consecutive unexcused absences",
+        "label_tr": "Ardışık üç izinsiz devamsızlık",
+        "severity": "red",
+        "enabled": true,
+        "condition": {
+          "metric": "consecutive_absences",
+          "operator": "gte",
+          "value": 3,
+          "min_observations": 1
+        }
+      },
+      {
+        "id": "attendance_low",
+        "label_en": "Attendance score below 60%",
+        "label_tr": "Yoklama puanı %60 altında",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "metric": "attendance_average",
+          "operator": "lt",
+          "value": 3,
+          "min_observations": 3
+        }
+      },
+      {
+        "id": "camera_incidents",
+        "label_en": "Three camera or microphone incidents within 21 days",
+        "label_tr": "21 günde üç kamera veya mikrofon sorunu",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "metric": "camera_incidents",
+          "operator": "gte",
+          "value": 3,
+          "min_observations": 3,
+          "window_days": 21
+        }
+      },
+      {
+        "id": "participation_low",
+        "label_en": "Low active participation",
+        "label_tr": "Düşük aktif katılım",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "metric": "participation_average",
+          "operator": "lte",
+          "value": 2.5,
+          "min_observations": 3
+        }
+      },
+      {
+        "id": "engagement_low",
+        "label_en": "Low engagement",
+        "label_tr": "Düşük derse ilgi",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "metric": "engagement_average",
+          "operator": "lte",
+          "value": 2.5,
+          "min_observations": 1
+        }
+      },
+      {
+        "id": "behaviour_low",
+        "label_en": "Behaviour needs support",
+        "label_tr": "Davranış desteği gerekli",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "any": [
+            {
+              "metric": "behaviour_average",
+              "operator": "lte",
+              "value": 3
+            },
+            {
+              "metric": "behaviour_min",
+              "operator": "lte",
+              "value": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "subject_low",
+        "label_en": "Subject learning needs support",
+        "label_tr": "Ders öğrenimi desteği gerekli",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "metric": "subject_average",
+          "operator": "lte",
+          "value": 3
+        }
+      },
+      {
+        "id": "criterion_gap",
+        "label_en": "Specific learning gap",
+        "label_tr": "Belirli kazanım eksikliği",
+        "severity": "yellow",
+        "enabled": true,
+        "condition": {
+          "all": [
+            {
+              "metric": "academic_min",
+              "operator": "lte",
+              "value": 2
+            },
+            {
+              "metric": "subject_average",
+              "operator": "gt",
+              "value": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "report_risk",
+        "label_en": "Report indicates close support needed",
+        "label_tr": "Karne yoğun destek gerektiriyor",
+        "severity": "red",
+        "enabled": true,
+        "condition": {
+          "metric": "overall_score",
+          "operator": "lt",
+          "value": 2.5
+        }
+      },
+      {
+        "id": "report_development",
+        "label_en": "Report indicates development needed",
+        "label_tr": "Karne gelişim gerektiriyor",
+        "severity": "orange",
+        "enabled": true,
+        "condition": {
+          "all": [
+            {
+              "metric": "overall_score",
+              "operator": "gte",
+              "value": 2.5
+            },
+            {
+              "metric": "overall_score",
+              "operator": "lt",
+              "value": 3
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
